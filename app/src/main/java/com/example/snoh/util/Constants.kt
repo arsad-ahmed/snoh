@@ -1,0 +1,4 @@
+package com.example.snoh.util
+
+const val PROJECT_DATABASE="project_database"
+const val ALLOWED_CHARACTER="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
